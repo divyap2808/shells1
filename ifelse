@@ -1,1 +1,7 @@
-
+os=$(uname)
+if [[ $os="Sunos" ]]
+then
+  echo "you are working on solaris"
+elif [[ $os="Linux"]]
+  echo "you are working on linux"
+if
