@@ -1,2 +1,2 @@
-# shells1
+# shells
 repository for shell Scripting
